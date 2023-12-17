@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab9Base</string>
+    <string name="test">"All about Testing in Android" - Lab9</string>
+    <string name="item_name">Name</string>
+    <string name="item_price">Price</string>
+    <string name="item_qty">Qty</string>
+    <string name="add">add</string>
+    <string name="total_cost">Total cost:</string>
+    <string name="enter_item_name">Enter item name</string>
+</resources>
